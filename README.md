@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shandralor, also known as Tom ;-), a programmer with a focus on Python and Web Dev
+- 👋 Hi, I’m @shandralor, also known as Tom ;-), a developer with a focus on Python and Web Dev
 - 👀 I’m interested in all things Python and Godot Open Source Game Engine(since 2024)
 - 🌱 I’m currently learning Flask, Django, NextJS, Tailwind CSS and MongoDB
 - 💞️ I’m looking to collaborate on any projects that can increase my knowledge on all these subjects
